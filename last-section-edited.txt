@@ -1,0 +1,2 @@
+How the documentation is organized
+in /index.txt
